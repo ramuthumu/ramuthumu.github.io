@@ -1,0 +1,4 @@
+baseURL = 'https://ramuthumu.github.io'
+languageCode = 'en-us'
+title = 'Welcome to my Blog'
+theme = "ananke"
